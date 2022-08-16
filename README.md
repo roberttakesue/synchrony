@@ -1,1 +1,1 @@
-# synchrony
+# This script was a part of my work during my internship with the IU school of psychology. This is an example of the scripting work we were doing, and in this case I am altering a csv file by grabbing the relevant data we needed (we were using facial tracking to identify saccades, and image labeling software to see what part of an image subjects were looking at) and cleaning up the raw data put out by the facial tracking software. 
